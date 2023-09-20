@@ -1,0 +1,408 @@
+.logo {
+    width: 250px;
+    height: 30px;
+    color: greenyellow;
+    margin-left: 40px;
+}
+
+.skill {
+    margin-left: 400px;
+    text-align: center;
+}
+
+.link {
+    padding: 20px;
+    margin-top: 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover {
+    border-bottom: 3px solid green;
+
+}
+
+.lo {
+    background-color: green;
+    border-radius: 30px;
+    color: white;
+    height: 30px;
+}
+
+.lo:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+.para {
+    width: 500px;
+    word-spacing: 1px;
+}
+
+.first {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.icon {
+    padding: 6px;
+    color: white;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+.cont {
+    margin-left: 40px;
+}
+
+.what {
+    margin-top: 120px;
+    margin-left: 40px;
+}
+
+.second {
+    background: url("black1.jpeg");
+    left: 10px;
+    color: white;
+}
+
+.r {
+    margin-left: 40px;
+}
+
+.large {
+    margin-left: 10px;
+}
+
+.node {
+    padding: 7px;
+}
+
+.node1 {
+    padding: 6px;
+
+}
+
+.flask1 {
+    color: orangered;
+}
+
+.progress {
+    border: 1px solid black;
+    margin-right: 40px;
+}
+
+.container {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    text-align: center;
+}
+
+.container1 {
+    background-color: blue;
+    color: white;
+    width: 75%;
+    text-align: center;
+}
+
+.container2 {
+    background-color: blue;
+    color: white;
+    width: 95%;
+    text-align: center;
+}
+
+.pro {
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.box {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.box1 {
+    border: 1px solid black;
+    height: 120px;
+    width: 600px;
+    margin: 10px;
+    background: url("fre.png");
+    background-size: cover;
+    color: white;
+}
+
+.box1:hover {
+    background: url("pink.jpeg");
+    color: white;
+}
+
+.boxy {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+.col {
+    color: orangered;
+}
+
+.col1 {
+    color: yellow;
+}
+
+.butt {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+.butt:hover {
+    background-color: black;
+    color: white;
+}
+
+#aq {
+    color: green;
+}
+
+#bq {
+    color: darkmagenta;
+}
+
+#cq {
+    color: yellow;
+}
+
+#dq {
+    color: skyblue;
+}
+
+#eq {
+    color: orange;
+}
+
+#fq {
+    color: aqua;
+}
+
+#gq {
+    color: pink;
+}
+
+#hq {
+    color: lightsalmon;
+}
+
+#iq {
+    color: lime;
+}
+
+#jq {
+    color: yellow;
+}
+
+.big {
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.icas {
+    width: 300px;
+    height: 250px;
+    margin-left: 40px;
+}
+
+
+.ui {
+    display: flex;
+}
+
+.sport {
+    width: 300px;
+    height: 200px;
+}
+
+.ach {
+    margin-left: 40px;
+}
+
+.cat {
+    border: 1px solid black;
+    height: 480px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+}
+
+.caty {
+    display: flex;
+    margin-left: 40px;
+
+}
+
+.google {
+    height: 190px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+.cert:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.blog {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.react {
+    display: flex;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.hii {
+    border: 1px solid black;
+    height: 200px;
+    width: 500px;
+    margin: 20px;
+    text-align: center;
+    background: url("wall.png");
+    color: white;
+}
+
+.sim {
+    color: black;
+}
+
+.sim:hover {
+    color: white;
+}
+
+.talk {
+    margin-left: 60px;
+}
+
+.conv {
+    margin-left: 300px;
+    width: 300px;
+    height: 250px;
+    border: 1px solid black;
+    text-align: center;
+    background: url("tree.jpeg");
+    color: white;
+
+}
+
+.slide {
+    border-radius: 15px;
+    background-color: palevioletred;
+    color: black;
+    width: 90px;
+    height: 30px;
+    margin: 7px;
+}
+
+.slide:hover {
+    background-color: black;
+    color: white;
+}
+
+.tweets {
+    margin-left: 60px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+
+}
+
+#me:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.podcast {
+    margin-left: 60px;
+    margin-top: 90px;
+    margin-bottom: 100px;
+
+}
+
+.dir {
+    margin-left: 200px;
+}
+
+.reach {
+    margin-left: 60px;
+    margin-bottom: 100px;
+}
+
+.icon1 {
+    color: green;
+    padding: 6px;
+}
+
+.icon2 {
+    color: blue;
+    padding: 6px;
+}
+
+.icon3 {
+    color: darkcyan;
+    padding: 6px;
+}
+
+.icon4 {
+    color: red;
+    padding: 6px;
+}
+
+.icon5 {
+    color: blue;
+    padding: 6px;
+}
+
+.footer {
+    background-color: black;
+    height: 40px;
+    color: white;
+
+}
+
+.port {
+    padding: 3px;
+    margin-left: 50px;
+}
+
+.arrow {
+    margin-left: 530px;
+    background-color: greenyellow;
+    color: black;
+}
+
+.photo {
+    background-image:  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("com.jpeg");
+    height: 500px;
+    color: white;
+    background-size:cover;
+}
+
+.gs {
+    text-decoration: underline;
+}
+
